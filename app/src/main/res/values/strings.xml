@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Magic8ball</string>
+    <string name="shake_me">Shake me</string>
+    <string name="shake">Shake</string>
+
+    <string-array name="answers">
+    <item>It is \n certain.</item>
+    <item>It is \n decidedly so.</item>
+    <item>Without \n a doubt.</item>
+    <item>Yes,\n definitely.</item>
+    <item>You may rely \n on it.</item>
+    <item>Signs point \n to yes.</item>
+    <item>As I see it, \n yes.</item>
+    <item>Most likely.</item>
+    <item>Outlook good.</item>
+    <item>Yes.</item>
+    <item>Signs point\n  to yes.</item>
+    <item>Reply hazy, \n try again.</item>
+    <item>Ask again\n  later.</item>
+    <item>Better not\n tell you now.</item>
+    <item>Cannot \n predict now.</item>
+    <item>Concentrate and \n ask again.</item>
+    <item>Dont count \n on it.</item>
+    <item>My reply \n is no.</item>
+    <item>My sources \n say no.</item>
+    <item>Outlook not\n  so good.</item>
+    <item>Very doubtful.</item>
+
+</string-array>
+
+</resources>
